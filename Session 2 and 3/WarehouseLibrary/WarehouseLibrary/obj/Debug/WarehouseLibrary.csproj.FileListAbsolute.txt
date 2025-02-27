@@ -1,0 +1,6 @@
+C:\Users\nicit\OneDrive\Рабочий стол\WarehouseLibrary\WarehouseLibrary\bin\Debug\WarehouseLibrary.dll
+C:\Users\nicit\OneDrive\Рабочий стол\WarehouseLibrary\WarehouseLibrary\bin\Debug\WarehouseLibrary.pdb
+C:\Users\nicit\OneDrive\Рабочий стол\WarehouseLibrary\WarehouseLibrary\obj\Debug\WarehouseLibrary.csproj.AssemblyReference.cache
+C:\Users\nicit\OneDrive\Рабочий стол\WarehouseLibrary\WarehouseLibrary\obj\Debug\WarehouseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nicit\OneDrive\Рабочий стол\WarehouseLibrary\WarehouseLibrary\obj\Debug\WarehouseLibrary.dll
+C:\Users\nicit\OneDrive\Рабочий стол\WarehouseLibrary\WarehouseLibrary\obj\Debug\WarehouseLibrary.pdb
