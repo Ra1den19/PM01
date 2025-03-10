@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ddos-test", "ddos-test\ddos-test.csproj", "{639D6281-FD09-4E0B-948C-C7FD797FDA59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{639D6281-FD09-4E0B-948C-C7FD797FDA59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{639D6281-FD09-4E0B-948C-C7FD797FDA59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{639D6281-FD09-4E0B-948C-C7FD797FDA59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{639D6281-FD09-4E0B-948C-C7FD797FDA59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4146F39-2170-4976-8D20-97DB702E52D3}
+	EndGlobalSection
+EndGlobal
